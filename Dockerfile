@@ -1,4 +1,4 @@
-From jboss/base-jdk:11
+From jboss/base-jdk:latest
 
 ENV WILDFLY_VERSION 24.0.0.Final
 ENV WILDFLY_SHA1 391346c9ed2772647ff07aeae39deb838ee11dcf
